@@ -6,9 +6,11 @@
 
 ---
 
-I graduated from **Hive Helsinki (42 Network)** in 2025, where I worked on project-based software development focused on operating systems, networking, and low-level problem solving. Most of my experience comes from building and debugging real programs in **C/C++**.
+I started my career as a **Java web developer**, building backend services with Spring Boot. While working on production systems, I became curious about what happens beneath the application layer — how processes run, how memory is managed, and how the OS handles concurrency.
 
-I'm particularly interested in how programs behave at runtime — process execution, resource management, and communication between components.
+That curiosity led me to **Hive Helsinki (42 Network)**, where I spent a year working entirely in **C and C++** — building a shell, a raycasting engine, a threading project, and more. Every project was built from scratch without frameworks, which gave me a much deeper understanding of how software actually works.
+
+Now I'm looking for opportunities where I can apply both perspectives — the practical experience of shipping backend services, and the low-level understanding of systems programming.
 
 ---
 
