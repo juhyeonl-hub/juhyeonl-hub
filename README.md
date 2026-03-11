@@ -6,11 +6,11 @@
 
 ---
 
-I started my career as a **Java web developer**, building backend services with Spring Boot. While working on production systems, I became curious about what happens beneath the application layer — how processes run, how memory is managed, and how the OS handles concurrency.
+I worked for about 2 years as a backend developer in **South Korea's financial sector**. At Hyundai Capital & Hyundai Commercial, I handled AML system ESB integration and B2B mobile office platform development. At the Korean National Police Agency, I led a full rebuild of the identity verification platform. My main stack was **Java / Spring Boot / Oracle**, with some frontend work in React and Node.js.
 
-That curiosity led me to **Hive Helsinki (42 Network)**, where I spent a year working entirely in **C and C++** — building a shell, a raycasting engine, a threading project, and more. Every project was built from scratch without frameworks, which gave me a much deeper understanding of how software actually works.
+In November 2024, I moved to Finland to study **C/C++ systems programming** from the ground up at **Hive Helsinki (42 Network)**. I've completed system-level projects including a Unix shell, a threading simulation, a raycasting engine, and more — all built from scratch without frameworks. Graduating in July 2026.
 
-Now I'm looking for opportunities where I can apply both perspectives — the practical experience of shipping backend services, and the low-level understanding of systems programming.
+Currently based in Helsinki, looking for backend developer opportunities.
 
 ---
 
