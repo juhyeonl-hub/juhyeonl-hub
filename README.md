@@ -1,8 +1,8 @@
 # Hi, I'm JuHyeon Lee
 
-![Email](https://img.shields.io/badge/Email-xx.juon%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-juhyeon--lee-0A66C2?style=flat&logo=linkedin&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Vantaa%2C%20Finland-green?style=flat)
+[![Email](https://img.shields.io/badge/Email-xx.juon%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:xx.juon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juhyeon--lee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juhyeon-lee-54aa1a223)
+[![Location](https://img.shields.io/badge/Location-Vantaa%2C%20Finland-green?style=flat)](https://www.google.com/maps/place/Vantaa,+Finland)
 
 ---
 
