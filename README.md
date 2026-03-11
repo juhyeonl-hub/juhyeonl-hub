@@ -8,7 +8,7 @@
 
 I worked for about 2 years as a backend developer in **South Korea's financial sector**. At Hyundai Capital & Hyundai Commercial, I handled AML system ESB integration and B2B mobile office platform development. At the Korean National Police Agency, I led a full rebuild of the identity verification platform. My main stack was **Java / Spring Boot / Oracle**, with some frontend work in React and Node.js.
 
-In November 2024, I moved to Finland to study **C/C++ systems programming** from the ground up at **Hive Helsinki (42 Network)**. I've completed system-level projects including a Unix shell, a threading simulation, a raycasting engine, and more — all built from scratch without frameworks. Graduating in July 2026.
+In November 2024, I moved to Finland to study **C/C++ systems programming** from the ground up at **Hive Helsinki (42 Network)**. I've completed system-level projects including a Unix shell, a threading simulation, a raycasting program, and more — all built from scratch without frameworks.
 
 Currently based in Helsinki, looking for backend developer opportunities.
 
@@ -25,7 +25,7 @@ A Unix shell implemented in C.
 ---
 
 ### [cub3d](https://github.com/juhyeonl-hub/cub3d)
-A 3D game engine inspired by *Wolfenstein 3D*.
+A raycasting program inspired by *Wolfenstein 3D*.
 - Implemented in C using **DDA raycasting** algorithm
 - Renders a 3D environment from a 2D map with textured walls
 - Handles player movement, collision detection, and a basic game loop
