@@ -10,7 +10,7 @@ I worked for about 2 years as a backend developer in **South Korea's financial s
 
 In November 2024, I moved to Finland to study **C/C++ systems programming** from the ground up at **Hive Helsinki (42 Network)**. I've completed system-level projects including a Unix shell, a threading simulation, a raycasting program, and more — all built from scratch without frameworks.
 
-Currently based in Helsinki, open to opportunities.
+Currently based in Helsinki, open to developer opportunities.
 
 ---
 
