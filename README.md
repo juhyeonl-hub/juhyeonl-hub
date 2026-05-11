@@ -16,6 +16,14 @@ Currently based in Vantaa, open to developer opportunities.
 
 ## Projects
 
+### [portfolio-blog](https://github.com/juhyeonl-hub/portfolio-blog) / [juhyeonl.dev](https://juhyeonl.dev)
+A personal portfolio, dev journal, and experimental lab.
+- Built with **Spring Boot 3 + Java 21** (backend) and **React + Vite** (frontend)
+- Publishes markdown journal posts through a GitHub webhook workflow
+- Includes a Lab section for playable browser experiments and small game projects
+
+---
+
 ### [minishell](https://github.com/juhyeonl-hub/minishell)
 A Unix shell implemented in C.
 - Supports pipes, redirections, heredoc, and signal handling
@@ -47,20 +55,12 @@ A sorting algorithm using two stacks and a limited set of operations.
 
 ---
 
-### [PEER](https://github.com/juhyeonl-hub/PEER)
-A side project — all-in-one developer platform with Scheduler, Algorithm Peer Review, and Community.
-- Built with **Spring Boot 3 + Java 21** (backend) and **Next.js 16** (frontend)
-- Google OAuth 2.0 + JWT authentication with role-based access
-- Deployed on local infrastructure via **Cloudflare Tunnel**
-
----
-
 ## Tech Stack
 
 | Category | Technologies |
 |---|---|
 | **Languages** | C, C++, Java, JavaScript/TypeScript |
-| **Backend** | Spring Boot, JPA/Hibernate, PostgreSQL, Redis |
-| **Frontend** | Next.js, React, TailwindCSS |
-| **DevOps** | Nginx, Cloudflare Tunnel, Flyway, Maven |
+| **Backend** | Spring Boot, JPA/Hibernate, PostgreSQL |
+| **Frontend** | React, Vite, TailwindCSS |
+| **DevOps** | AWS EC2, Vercel, Nginx, Cloudflare, Flyway, Maven |
 | **Tools** | Git, Valgrind, GDB, ThreadSanitizer |
